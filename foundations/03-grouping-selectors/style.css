@@ -1,0 +1,13 @@
+.botones {
+    font-family: 'helvetica','Times New Roman', sans-serif;
+    font-size: 50px;
+}
+
+.boton1 {
+    background-color: black;
+    color: white
+}
+
+.boton2 {
+    background-color: yellow;
+}

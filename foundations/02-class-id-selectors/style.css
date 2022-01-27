@@ -1,0 +1,21 @@
+/* style.css */
+
+p {
+    background-color: rgb(235, 144, 144); 
+    font-family: Verdana, DejaVu sans, sans-serif ;
+}
+
+#number2 {
+    color: rgb(7, 57, 206);
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: rgb(101, 248, 165);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p.cooler {
+    font-size: 24px;
+}
